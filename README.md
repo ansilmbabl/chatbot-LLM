@@ -51,3 +51,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to Langchain and ChainLit for enabling LLM integration and chatbot development.
 
 Happy Chatbotting!
+
+📫 Reach me via [linkedIn](https://www.linkedin.com/in/ansilmbabl)
